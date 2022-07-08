@@ -1,0 +1,10 @@
+server:
+  port: 9008
+
+logging:
+  #file: demo.log
+  pattern:
+    console: "%d - %msg%n"
+  level:
+    org.springframework.web: debug
+    com.lxs: debug

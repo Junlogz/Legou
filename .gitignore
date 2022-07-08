@@ -1,0 +1,21 @@
+# Project exclude paths
+/legou-parent/auth-center/target/
+/legou-parent/config/target/
+/legou-parent/gateway/target/
+/legou-parent/legou-admin/legou-admin-instance/target/
+/legou-parent/legou-admin/legou-admin-service/target/
+/legou-parent/legou-canal/target/
+/legou-parent/legou-common/target/
+/legou-parent/legou-core/target/
+/legou-parent/legou-item/legou-item-instance/target/
+/legou-parent/legou-item/legou-item-service/target/
+/legou-parent/legou-order/legou-order-interface/target/
+/legou-parent/legou-order/legou-order-service/target/
+/legou-parent/legou-page/target/
+/legou-parent/legou-pay/target/
+/legou-parent/legou-search/legou-search-instance/target/
+/legou-parent/legou-search/legou-search-service/target/
+/legou-parent/legou-security/legou-security-instance/target/
+/legou-parent/legou-security/legou-security-service/target/
+/legou-parent/legou-upload/target/
+/legou-parent/registry/target/

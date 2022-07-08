@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/auth-center/auth-center.iml" filepath="$PROJECT_DIR$/legou-parent/auth-center/auth-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/config/config.iml" filepath="$PROJECT_DIR$/legou-parent/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/gateway/gateway.iml" filepath="$PROJECT_DIR$/legou-parent/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-admin/legou-admin.iml" filepath="$PROJECT_DIR$/legou-parent/legou-admin/legou-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-admin/legou-admin-instance/legou-admin-instance.iml" filepath="$PROJECT_DIR$/legou-parent/legou-admin/legou-admin-instance/legou-admin-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-admin/legou-admin-service/legou-admin-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-admin/legou-admin-service/legou-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-canal/legou-canal.iml" filepath="$PROJECT_DIR$/legou-parent/legou-canal/legou-canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-common/legou-common.iml" filepath="$PROJECT_DIR$/legou-parent/legou-common/legou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-core/legou-core.iml" filepath="$PROJECT_DIR$/legou-parent/legou-core/legou-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-item/legou-item.iml" filepath="$PROJECT_DIR$/legou-parent/legou-item/legou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-item/legou-item-instance/legou-item-instance.iml" filepath="$PROJECT_DIR$/legou-parent/legou-item/legou-item-instance/legou-item-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-item/legou-item-service/legou-item-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-item/legou-item-service/legou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kkb_JavaEE_info/legou-manager-ui/legou-manager-ui.iml" filepath="$PROJECT_DIR$/../kkb_JavaEE_info/legou-manager-ui/legou-manager-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-order/legou-order.iml" filepath="$PROJECT_DIR$/legou-parent/legou-order/legou-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-order/legou-order-interface/legou-order-interface.iml" filepath="$PROJECT_DIR$/legou-parent/legou-order/legou-order-interface/legou-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-order/legou-order-service/legou-order-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-order/legou-order-service/legou-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-page/legou-page.iml" filepath="$PROJECT_DIR$/legou-parent/legou-page/legou-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-parent.iml" filepath="$PROJECT_DIR$/legou-parent/legou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-pay/legou-pay.iml" filepath="$PROJECT_DIR$/legou-parent/legou-pay/legou-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kkb_JavaEE_info/legou-portal-ui/legou-portal-ui.iml" filepath="$PROJECT_DIR$/../kkb_JavaEE_info/legou-portal-ui/legou-portal-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-search/legou-search.iml" filepath="$PROJECT_DIR$/legou-parent/legou-search/legou-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-search/legou-search-instance/legou-search-instance.iml" filepath="$PROJECT_DIR$/legou-parent/legou-search/legou-search-instance/legou-search-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-search/legou-search-service/legou-search-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-search/legou-search-service/legou-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill.iml" filepath="$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill-interface/legou-seckill-interface.iml" filepath="$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill-interface/legou-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill-service/legou-seckill-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-seckill/legou-seckill-service/legou-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-security/legou-security.iml" filepath="$PROJECT_DIR$/legou-parent/legou-security/legou-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-security/legou-security-instance/legou-security-instance.iml" filepath="$PROJECT_DIR$/legou-parent/legou-security/legou-security-instance/legou-security-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-security/legou-security-service/legou-security-service.iml" filepath="$PROJECT_DIR$/legou-parent/legou-security/legou-security-service/legou-security-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/legou-upload/legou-upload.iml" filepath="$PROJECT_DIR$/legou-parent/legou-upload/legou-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/legou-parent/registry/registry.iml" filepath="$PROJECT_DIR$/legou-parent/registry/registry.iml" />
+    </modules>
+  </component>
+</project>

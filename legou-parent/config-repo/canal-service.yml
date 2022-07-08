@@ -1,0 +1,21 @@
+server:
+  port: 9007
+
+logging:
+  pattern:
+    console: "%d - %msg%n"
+  level:
+    org.springframework.web: debug
+    com.zjl: debug
+
+spring:
+  redis:
+    host: 124.222.211.143
+    port: 6379
+
+canal:
+  client:
+    instances:
+      example:
+        host: 124.222.211.143
+        port: 11111
